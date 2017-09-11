@@ -1,0 +1,7 @@
+1.0.0
+First release version of PIDataReader (exe and svc) using new timer that waits a schedule to be completed before starting a new one.
+Uses:
+- PIDataReaderLib v2.4.0
+- PIDataReaderCommons v1.3.0
+- PIDataReaderExe v1.0.0
+- PIDataReaderSvc v1.0.0
