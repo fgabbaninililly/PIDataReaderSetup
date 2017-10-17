@@ -1,3 +1,11 @@
+1.1.0
+Uses multiple MQTT libraries. Fetches read ends from archived log files.
+PIDataReaderLibs: 3.0.0
+PIDataReaderCommons: 2.0.0
+PIDataReaderExe: 1.0.0
+PIDataReaderSvc: 1.1.0
+PIDataReaderSetup: 
+
 1.0.0
 First release version of PIDataReader (exe and svc) using new timer that waits a schedule to be completed before starting a new one.
 Uses:
